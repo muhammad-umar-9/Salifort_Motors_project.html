@@ -1,1 +1,1 @@
-# js-course-material
+# capstone project
